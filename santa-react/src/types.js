@@ -1,0 +1,1 @@
+export const CHECKED_NICE = "CHECKED_NICE";
